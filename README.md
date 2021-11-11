@@ -1,3 +1,5 @@
+my changes to view in github + jenkins git logs
+
 # simple-java-maven-app
 
 This repository is for the
